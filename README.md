@@ -1,15 +1,15 @@
 # 📌 일정 관리 앱 프로젝트
 
-### 프로젝트 소개
+## 프로젝트 소개
 Spring Boot 기반의 일정 관리 어플리케이션입니다.
 
-### 기술 스택
+## 기술 스택
 **프레임워크** : Spring Boot 3.4.4<br>
 **데이터베이스** : MySQL <br>
 **빌드 도구** : Gradle-Groovy<br>
 **언어** : Java 17 <br>
 
-### API 명세서
+## API 명세서
 
 
 기능 | METHOD | URL | request | response | 상태코드
@@ -22,14 +22,13 @@ Spring Boot 기반의 일정 관리 어플리케이션입니다.
 일정 내용 수정 | PATCH | /api/schedules/{id} | { “name” : string, “content” : string “password” : string } | { “id” : Long “name” : string, “content” : string “updated_date” : DATETIME } | 200 OK : 수정 성공 404 NotFound : 수정 실패 , 해당 식별자가 존재하지 않는 경우 400 BadRequest : 수정 실패, 필수값 없음
 일정 삭제 | DELETE | /api/schedules/{id} | { “password” : string } |   | 200 OK : 삭제 성공  404 NotFound : 삭제 실패, 해당 식별자가 존재하지 않는 경우
 
-### ERD
+## ERD
 
 ![Image](https://github.com/user-attachments/assets/50099cab-3027-43fc-979b-b6c6737d2420)
 
-<img width="357" alt="Image" src="https://github.com/user-attachments/assets/0f625329-ef27-420b-8694-e5bfa1854571" />
 
-### DATABASE
-
+## DATABASE
+![Image](https://github.com/user-attachments/assets/50099cab-3027-43fc-979b-b6c6737d2420)
 
 
 
