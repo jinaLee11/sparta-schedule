@@ -10,29 +10,6 @@ Spring Boot 기반의 일정 관리 어플리케이션입니다.
 **언어** : Java 17 <br>
 
 ### API 명세서
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-
-<meta http-equiv="Content-Style-Type" content="text/css">
-<title></title>
-<meta name="Generator" content="Cocoa HTML Writer">
-<meta name="CocoaVersion" content="2575.4">
-<style type="text/css">
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px '.Apple SD Gothic NeoI'; color: #fd8208}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px '.AppleSystemUIFont'; color: #fd8208}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px '.Apple SD Gothic NeoI'}
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px '.AppleSystemUIFont'}
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
-span.s1 {background-color: rgba(253, 130, 8, 0.15)}
-span.s2 {font: 13.0px '.AppleSystemUIFont'}
-span.s3 {font: 12.0px Helvetica}
-span.s4 {font: 13.0px '.Apple SD Gothic NeoI'}
-table.t1 {border-collapse: collapse}
-td.td1 {border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #9a9a9a #9a9a9a #9a9a9a #9a9a9a; padding: 1.0px 5.0px 1.0px 5.0px}
-</style>
-</head>
 <body>
 
 기능 | METHOD | URL | request | response | 상태코드
