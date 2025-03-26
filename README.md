@@ -13,7 +13,8 @@ Spring Boot 기반의 일정 관리 어플리케이션입니다.
 
 
 ### ERD
-![Image](https://github.com/user-attachments/assets/b4f5feb1-9d2d-4273-80c2-b2875acbd867)
+<img width="357" alt="Image" src="https://github.com/user-attachments/assets/0f625329-ef27-420b-8694-e5bfa1854571" />
+
 
 ![Image](https://github.com/user-attachments/assets/50099cab-3027-43fc-979b-b6c6737d2420)
 
