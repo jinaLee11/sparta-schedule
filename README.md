@@ -29,7 +29,7 @@ Spring Boot 기반의 일정 관리 어플리케이션입니다.
 
 
 ## DATABASE
-![Image](https://github.com/user-attachments/assets/50099cab-3027-43fc-979b-b6c6737d2420)
+<img width="498" alt="Image" src="https://github.com/user-attachments/assets/af4440ce-e687-4689-a9c7-4d8a3f857cf1" />
 
 
 
